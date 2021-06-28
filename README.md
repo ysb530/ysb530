@@ -1,0 +1,3 @@
+- Hi, I’m steve
+- I’m interested in languages for human (english, chinese, vietnames, japanes and korean) and machine (c/c++, pythone, java, and so on)
+- I’m currently learning AI related things
