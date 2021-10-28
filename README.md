@@ -7,6 +7,6 @@
 |Items|Description|
 |:--:|:--:|
 |Car|<img src="https://www.hyundai.com/static/images/gnb/gnb_genesis_thumb.png" width="400"><br>Item 1. The car brand that I like.|
-|Human Lang|Chinese, Vetnames, Body Language :)|
-|Machine Lang|No matter what they are if it is needed|
+|Human Lang| Chinese <br> Vetnames <br> Body Language :)|
+|Machine Lang|No matter what they are if they are needed (Black Cat or White Cat)|
 |Hobby|`Wanna play Golf?`|
